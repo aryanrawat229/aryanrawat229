@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there, I'm Aryan Rawat! 👋
+#  I'm Aryan Rawat! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanrawat229&color=blueviolet)
 
