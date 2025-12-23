@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning new programming languages and frameworks.
 - 💼 I’m looking for opportunities to collaborate on open source projects.
-- 📫 How to reach me: [Email](mailto:aryanrawat229@gmail.com) | [LinkedIn](www.linkedin.com/in/aryan-rawat-arsenal2004)
+- 📫 How to reach me: [Email](mailto:aryanrawat229@gmail.com) | [LinkedIn](www.linkedin.com/in/aryan-rawat-webdev4)
 - ⚡ Fun fact: I love exploring new technologies and solving challenging problems.
 
 ## 🛠 Technologies & Tools
